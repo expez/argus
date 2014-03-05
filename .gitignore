@@ -4,6 +4,7 @@
 pom.xml
 pom.xml.asc
 *.jar
+!opencv-native-248.jar
 *.class
 /.lein-*
 /.nrepl-port
